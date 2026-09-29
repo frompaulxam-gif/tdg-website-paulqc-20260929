@@ -149,6 +149,78 @@
           "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
         }
       ]
+    },
+    {
+      "code": "05",
+      "brand": "Reel opening",
+      "variants": [
+        {
+          "id": "05-d",
+          "label": "D",
+          "reference": true,
+          "width": 2560,
+          "height": 1094,
+          "image": "media/05-d.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/d/"
+        },
+        {
+          "id": "05-e",
+          "label": "E",
+          "reference": false,
+          "width": 2560,
+          "height": 1094,
+          "image": "media/05-e.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/e/"
+        }
+      ]
+    },
+    {
+      "code": "06",
+      "brand": "Project roles",
+      "variants": [
+        {
+          "id": "06-d",
+          "label": "D",
+          "reference": true,
+          "width": 2560,
+          "height": 2546,
+          "image": "media/06-d.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/d/#selected-work"
+        },
+        {
+          "id": "06-f",
+          "label": "F",
+          "reference": false,
+          "width": 2560,
+          "height": 2546,
+          "image": "media/06-f.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/f/#selected-work"
+        }
+      ]
+    },
+    {
+      "code": "07",
+      "brand": "Reel contact",
+      "variants": [
+        {
+          "id": "07-d",
+          "label": "D",
+          "reference": true,
+          "width": 2560,
+          "height": 474,
+          "image": "media/07-d.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/d/#start-project"
+        },
+        {
+          "id": "07-e",
+          "label": "E",
+          "reference": false,
+          "width": 2560,
+          "height": 520,
+          "image": "media/07-e.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/e/#start-project"
+        }
+      ]
     }
   ]
 }
