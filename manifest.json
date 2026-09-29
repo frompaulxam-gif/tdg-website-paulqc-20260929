@@ -245,6 +245,30 @@
           "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
         }
       ]
+    },
+    {
+      "code": "09",
+      "brand": "Marketing guide",
+      "variants": [
+        {
+          "id": "09-current",
+          "label": "Current contact",
+          "reference": true,
+          "image": "media/07-d.png",
+          "width": 2560,
+          "height": 474,
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/d/#start-project"
+        },
+        {
+          "id": "09-h",
+          "label": "H",
+          "reference": false,
+          "image": "media/09-h.png",
+          "width": 2558,
+          "height": 1984,
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/marketing-guide/"
+        }
+      ]
     }
   ]
 }
