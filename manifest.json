@@ -242,7 +242,7 @@
           "image": "media/08-g.png",
           "width": 2558,
           "height": 7916,
-          "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/g/"
         }
       ]
     },
@@ -267,6 +267,30 @@
           "width": 2558,
           "height": 1984,
           "source": "https://frompaulxam-gif.github.io/triple-down-preview/marketing-guide/"
+        }
+      ]
+    },
+    {
+      "code": "10",
+      "brand": "Project logos",
+      "variants": [
+        {
+          "id": "10-g",
+          "label": "G",
+          "reference": true,
+          "image": "media/08-g.png",
+          "width": 2558,
+          "height": 7916,
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/g/"
+        },
+        {
+          "id": "10-i",
+          "label": "I",
+          "reference": false,
+          "image": "media/10-i.png",
+          "width": 2558,
+          "height": 7916,
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
         }
       ]
     }
