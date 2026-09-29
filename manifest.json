@@ -146,7 +146,7 @@
           "width": 2558,
           "height": 5748,
           "image": "media/04-d.png?v=clean",
-          "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/gallery-original/"
         }
       ]
     },
@@ -219,6 +219,30 @@
           "height": 520,
           "image": "media/07-e.png",
           "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/e/#start-project"
+        }
+      ]
+    },
+    {
+      "code": "08",
+      "brand": "Rounded gallery",
+      "variants": [
+        {
+          "id": "08-d",
+          "label": "D",
+          "reference": true,
+          "image": "media/04-d.png?v=clean",
+          "width": 2558,
+          "height": 5748,
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/gallery-original/"
+        },
+        {
+          "id": "08-g",
+          "label": "G",
+          "reference": false,
+          "image": "media/08-g.png",
+          "width": 2558,
+          "height": 7916,
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
         }
       ]
     }
