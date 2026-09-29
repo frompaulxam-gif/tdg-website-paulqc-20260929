@@ -125,6 +125,30 @@
         }
       ],
       "brand": "Contact"
+    },
+    {
+      "code": "04",
+      "brand": "Work gallery",
+      "variants": [
+        {
+          "id": "04-current",
+          "label": "Current",
+          "reference": true,
+          "width": 2558,
+          "height": 1650,
+          "image": "media/04-current.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/current/#selected-work"
+        },
+        {
+          "id": "04-d",
+          "label": "D",
+          "reference": false,
+          "width": 1580,
+          "height": 3549,
+          "image": "media/04-d.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/our-work/"
+        }
+      ]
     }
   ]
 }
