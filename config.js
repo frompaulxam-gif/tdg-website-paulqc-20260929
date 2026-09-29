@@ -1,0 +1,1 @@
+const CONFIG={"id": "tdg-website-paulqc-20260929", "title": "Triple Down \u00b7 Website QC", "store": "https://textdb.dev/api/data/qc-776c9c5a8800088fdbf5c2e0"};

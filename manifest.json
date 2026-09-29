@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "code": "01",
+      "variants": [
+        {
+          "id": "01-current",
+          "label": "Current",
+          "reference": true,
+          "width": 2558,
+          "height": 1514,
+          "image": "media/01-current.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/current/"
+        },
+        {
+          "id": "01-a",
+          "label": "A",
+          "reference": false,
+          "width": 2558,
+          "height": 1704,
+          "image": "media/01-a.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/a/"
+        },
+        {
+          "id": "01-b",
+          "label": "B",
+          "reference": false,
+          "width": 2558,
+          "height": 1704,
+          "image": "media/01-b.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/b/"
+        },
+        {
+          "id": "01-c",
+          "label": "C",
+          "reference": false,
+          "width": 2558,
+          "height": 1704,
+          "image": "media/01-c.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/c/"
+        }
+      ],
+      "brand": "Opening"
+    },
+    {
+      "code": "02",
+      "variants": [
+        {
+          "id": "02-current",
+          "label": "Current",
+          "reference": true,
+          "width": 2558,
+          "height": 1650,
+          "image": "media/02-current.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/current/#selected-work"
+        },
+        {
+          "id": "02-a",
+          "label": "A",
+          "reference": false,
+          "width": 2558,
+          "height": 1652,
+          "image": "media/02-a.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/a/#selected-work"
+        },
+        {
+          "id": "02-b",
+          "label": "B",
+          "reference": false,
+          "width": 2558,
+          "height": 1756,
+          "image": "media/02-b.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/b/#selected-work"
+        },
+        {
+          "id": "02-c",
+          "label": "C",
+          "reference": false,
+          "width": 2558,
+          "height": 1670,
+          "image": "media/02-c.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/c/#selected-work"
+        }
+      ],
+      "brand": "Projects"
+    },
+    {
+      "code": "03",
+      "variants": [
+        {
+          "id": "03-current",
+          "label": "Current",
+          "reference": true,
+          "width": 1422,
+          "height": 800,
+          "image": "media/03-current.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/current/#start-project"
+        },
+        {
+          "id": "03-a",
+          "label": "A",
+          "reference": false,
+          "width": 1422,
+          "height": 800,
+          "image": "media/03-a.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/a/#start-project"
+        },
+        {
+          "id": "03-b",
+          "label": "B",
+          "reference": false,
+          "width": 1422,
+          "height": 800,
+          "image": "media/03-b.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/b/#start-project"
+        },
+        {
+          "id": "03-c",
+          "label": "C",
+          "reference": false,
+          "width": 1422,
+          "height": 800,
+          "image": "media/03-c.png",
+          "source": "https://frompaulxam-gif.github.io/triple-down-preview/variants/c/#start-project"
+        }
+      ],
+      "brand": "Contact"
+    }
+  ]
+}
